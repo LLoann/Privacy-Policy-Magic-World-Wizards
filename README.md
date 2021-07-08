@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <a>
 Privacy Policy
 </a>
